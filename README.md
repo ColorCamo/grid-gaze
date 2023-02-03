@@ -1,2 +1,4 @@
-# grid-gaze
-Traffic analysis tool
+## grid-gaze
+A traffic analysis tool
+
+For demo purposes only.
