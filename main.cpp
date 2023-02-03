@@ -9,6 +9,8 @@
 using namespace std;
 int qtyEdges, qtyNodes;
 
+
+// Test
 vector<int> e[MAXM];
 bool is_connected [MAXN][MAXN];
 int absoluteFlow[MAXN][MAXN];
